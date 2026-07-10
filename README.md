@@ -10,26 +10,27 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently exploring **Cloud Computing & DevOps**
-- ☁️ Focused on **AWS** services and cloud infrastructure
-- ⚙️ Interested in CI/CD pipelines, automation, and containerization
-- 🌱 Constantly learning new tools in the DevOps ecosystem
-- 💬 Ask me about AWS, Docker, or CI/CD workflows
+- ☁️ Working with **AWS** — EC2, VPC, S3, and RDS for scalable cloud infrastructure
+- ⚙️ Interested in CI/CD pipelines, Infrastructure as Code, and containerization
+- 🌱 Constantly deepening my knowledge of the AWS ecosystem
+- 💬 Ask me about AWS architecture, Docker, or CI/CD workflows
 - 📫 Reach me on LinkedIn (link below)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+**AWS Services**  
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![VPC](https://img.shields.io/badge/Amazon_VPC-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 **DevOps Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 **Version Control & OS**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,4 +62,3 @@
 ---
 
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
-

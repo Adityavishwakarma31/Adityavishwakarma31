@@ -44,13 +44,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Adityavishwakarma31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Adityavishwakarma31&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Adityavishwakarma31&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
 </p>
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityavishwakarma31/Adityavishwakarma31/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ---
 
@@ -69,4 +75,5 @@
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+
 

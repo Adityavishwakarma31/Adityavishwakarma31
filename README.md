@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya+Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<h1 align="center">Hi there 👋, I'm Aditya Vishwakarma</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | AWS | Automating Everything</h3>
 
 <p align="center">

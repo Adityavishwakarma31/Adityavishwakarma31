@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Enthusiast%20%7C%20AWS&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aditya+Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <h1 align="center">Hi there 👋, I'm Aditya Vishwakarma</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | AWS | Automating Everything</h3>
@@ -70,3 +70,4 @@
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+

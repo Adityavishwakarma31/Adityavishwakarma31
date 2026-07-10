@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aditya%20Vishwakarma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Enthusiast%20%7C%20AWS&descAlignY=55&descSize=18" />
+
 <h1 align="center">Hi there 👋, I'm Aditya Vishwakarma</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | AWS | Automating Everything</h3>
 
@@ -32,6 +34,10 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
+**Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 **Version Control & OS**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,12 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityavishwakarma31&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavishwakarma31&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityavishwakarma31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavishwakarma31&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavishwakarma31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavishwakarma31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -61,6 +67,20 @@
 
 ---
 
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Adityavishwakarma31/Adityavishwakarma31/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+> To activate this, add the `snake.yml` GitHub Action workflow to this repo (I can generate that file for you too).
+
+---
+
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 <p align="center"><i>⭐️ Thanks for visiting my profile! Feel free to explore my repositories.</i></p>

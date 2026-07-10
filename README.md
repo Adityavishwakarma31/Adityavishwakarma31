@@ -48,12 +48,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityavishwakarma31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityavishwakarma31&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Adityavishwakarma31&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Adityavishwakarma31&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityavishwakarma31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Adityavishwakarma31&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
 </p>
 
 ---
@@ -61,22 +61,12 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="linkedin.com/in/aditya-vishwakarma31" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Adityavishwakarma31/Adityavishwakarma31/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> To activate this, add the `snake.yml` GitHub Action workflow to this repo (I can generate that file for you too).
 
 ---
 
